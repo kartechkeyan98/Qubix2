@@ -8,11 +8,6 @@ As per the structure of the library, it is split into the
 implementation: `matrix` which is contains a way to access it's 
 corresponding `storage` class, which has the data.
 
-<style>
-    .baseds{
-        filter:invert(1);
-    }
-</style>
 <img src="./baseDS.png" alt="Basic DS" class="baseds">
 <Br><Br>
 
