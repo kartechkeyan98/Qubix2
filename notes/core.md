@@ -1,10 +1,4 @@
-<style>
-    body{
-        text-align: justify;
-        font-family: Comic Sans MS;
-    }
-</style>
-
+>
 # Core Module
 This module just deals with general purpose linear algebra and
 the central data structure in this module is the `Matrix` class.
