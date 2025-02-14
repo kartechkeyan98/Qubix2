@@ -1,10 +1,3 @@
-<style>
-    body{
-        text-align: justify;
-        font-family: Comic Sans MS;
-    }
-</style>
-
 # Notes for `qubix2`
 `qubix2` is a lightweight linear algebra library with different modules for 
 different purposes. For example, the `core` module is for general purpose 
@@ -26,11 +19,6 @@ elements as arrays (heap arrays).<Br>
 
 So, the picture is something like this:
 
-<style>
-    .baseds{
-        filter:invert(1);
-    }
-</style>
 <img src="./baseDS.png" alt="Basic DS" class="baseds">
 
 This is going to be the basic concept behind any info containing data structure 
