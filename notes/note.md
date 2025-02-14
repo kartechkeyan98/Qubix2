@@ -29,7 +29,7 @@ manipulated or accessed in general.
 
 # Module Sections
 
-<a href="./note.md">Core Module</a>
+[Core Module](https://github.com/kartechkeyan98/Qubix2/blob/main/notes/core.md)
 
 
  
